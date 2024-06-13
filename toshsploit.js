@@ -4026,3 +4026,5 @@ if (P.runtime) {
 } else {
   console.log('Failed to grab VM');
 }
+
+let vm = P;
